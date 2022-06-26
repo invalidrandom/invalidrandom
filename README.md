@@ -12,6 +12,23 @@ I've been into I.T, coding and hacking professionally since I was 13, I do freel
 *   🧠  I'm learning golang
 *   🤝  I'm open to collaborating on interesting projects of any kind
 *   ⚡  I am avaiable for hiring
+
+I will be leaving here some ways for donation, this money will be used to host projects or even for personal use.
+
+- Bitcoin   (BTC):    bc1q2ffdlzkg2eas4tqkne4h6wexa78z2rnyupr96k
+- Ethereum  (ETH):    0x456774b7e3fA6Cfe8DcF89385864B86ef10bF6a0
+- Algorand  (ALGO):   WLQ6S53TCHCCB4VN2FQXC5FTUB6B4JTW5RNGFMDBSSAEXCF45AWGHTRHTY
+- Polygon   (MATIC):  0x456774b7e3fA6Cfe8DcF89385864B86ef10bF6a0
+- Shiba Inu (SHIB):   0x456774b7e3fA6Cfe8DcF89385864B86ef10bF6a0
+- Dogecoin  (DOGE):   D6PARFkkiziR5CQsSivFYJWXKofLSTfgAq
+- Litecoin  (LTC):    ltc1qedl4lrqzurcdymapnpqxydntvryecktnyvsny5
+- ZCash     (ZEC):    t1aiw523k1KvqQanzrGMmiwoAdtmguRm3XM
+- Terra     (LUNA):   0x456774b7e3fA6Cfe8DcF89385864B86ef10bF6a0
+- Cardano   (ADA):    addr1q8er4r2262lpeka9zc538v5yajcnjsfznlfd08vq8ue3q64gm2mayms8vfk9nkmfyw5s7vjxssx4s7sjtr2et9tlj25qv7f098
+- XRP       (XRP):    rnqDk7BZfKSb2bqBJMXusMubMBYtF59WbL
+- Solana    (SOL):    2fPCCQPDmSKHSnuksPuatjQW8Z2fjsk6HzkAkfGqubSg
+- Polkadot  (DOT):    141ATxcd23bXrChFiMWB6m6ES6tyU51ws9m8RS4gFYo1QuHa
+
 <a href="https://www.twitter.com/invalid_random" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/invalid_random?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/invalidrandom" target="_blank" rel="noreferrer"><img
