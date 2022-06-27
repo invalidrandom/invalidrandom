@@ -1,7 +1,7 @@
 Hi 👋 My name is Invalid Random.
 ================================
 
-Web developer, hacker and I.T nerd.
+Developer, hacker and I.T nerd.
 -----------------------------------
 
 I've been into I.T, coding and hacking professionally since I was 13, I do freelancing and some projects to show the world my abilities and how it could help people all around the world.
