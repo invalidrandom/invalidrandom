@@ -7,7 +7,7 @@ Developer, hacker and I.T nerd.
 I've been into I.T, coding and hacking professionally since I was 13, I do freelancing and some projects to show the world my abilities and how it could help people all around the world.
 
 *   🌍  I'm based in Brazil
-*   🖥️  See my portfolio at [github.](http://github.com/invalidrandom)
+*   🖥️  See my portfolio at [my website](https://theinvalidrandom.web.app)
 *   ✉️  You can contact me at [theinvalidrandom@proton.me](mailto:theinvalidrandom@proton.me)
 *   🧠  I'm learning golang
 *   🤝  I'm open to collaborating on interesting projects of any kind
